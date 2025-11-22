@@ -25,7 +25,7 @@ This enterprise-grade RAG pipeline transforms unstructured CV/resume data into a
 ### Time Savings
 - **Before:** HR teams spend 2-3 hours per day manually searching through CVs
 - **After:** Instant query responses (< 2 seconds)
-- **Annual Savings:** ~600 hours per HR professional = **$30,000+ in productivity gains**
+- **Annual Savings:** 600 hours per HR professional = **$30.000+ in productivity gains**
 
 ### Improved Hiring Quality
 - **Faster Candidate Matching:** Identify qualified candidates 10x faster
@@ -38,8 +38,8 @@ This enterprise-grade RAG pipeline transforms unstructured CV/resume data into a
 - **Scalable Solution:** Handle 10x more candidates without proportional cost increase
 
 ### Estimated Annual ROI
-- **Investment:** Initial setup + API costs (~$5,000/year)
-- **Returns:** $30,000+ in productivity + $20,000+ in reduced time-to-fill
+- **Investment:** Initial setup + API costs ($5.000/year)
+- **Returns:** $30.000+ in productivity + $20.000+ in reduced time-to-fill
 - **ROI:** **900%+ in first year**
 
 ---
