@@ -49,6 +49,10 @@ This enterprise-grade RAG pipeline transforms unstructured CV/resume data into a
 ### System Architecture
 
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/066fdfe0-4580-4417-868e-08d829deabd1" />
+<img width="2400" height="1090" alt="image" src="https://github.com/user-attachments/assets/9cfdf747-f620-4536-a28c-82c83013656e" />
+<img width="2804" height="554" alt="image" src="https://github.com/user-attachments/assets/113ecd32-9286-4aaa-a457-a3f3da9caf53" />
+
+
 
 
 ### Technology Stack
