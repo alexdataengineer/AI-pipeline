@@ -259,11 +259,11 @@ This enterprise-grade RAG pipeline transforms unstructured CV/resume data into a
 
 | Component | Cost |
 |-----------|------|
-| OpenAI API (Embeddings) | ~$2,000 |
-| OpenAI API (Chat) | ~$1,000 |
-| Pinecone Serverless | ~$1,500 |
-| Docker Hosting | ~$500 |
-| **Total** | **~$5,000/year** |
+| OpenAI API (Embeddings) | $2,000 |
+| OpenAI API (Chat) | $1,000 |
+| Pinecone Serverless | $1,500 |
+| Docker Hosting | $500 |
+| **Total** | **$5,000/year** |
 
 ### Cost per Query
 - **Embedding Generation:** $0.00013 per 1K tokens
