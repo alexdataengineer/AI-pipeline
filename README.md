@@ -51,6 +51,8 @@ This enterprise-grade RAG pipeline transforms unstructured CV/resume data into a
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/066fdfe0-4580-4417-868e-08d829deabd1" />
 <img width="2400" height="1090" alt="image" src="https://github.com/user-attachments/assets/9cfdf747-f620-4536-a28c-82c83013656e" />
 <img width="2804" height="554" alt="image" src="https://github.com/user-attachments/assets/113ecd32-9286-4aaa-a457-a3f3da9caf53" />
+<img width="2320" height="1192" alt="image" src="https://github.com/user-attachments/assets/f687964e-ce64-42e3-822c-0466055f7ed0" />
+<img width="2210" height="1202" alt="image" src="https://github.com/user-attachments/assets/12757c2c-38cb-4df6-b222-ed2049c65e25" />
 
 
 
