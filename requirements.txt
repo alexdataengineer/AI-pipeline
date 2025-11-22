@@ -1,0 +1,24 @@
+# Core dependencies
+python-dotenv==1.0.0
+pydantic==2.5.0
+pydantic-settings==2.1.0
+
+# PDF processing
+pypdf==3.17.0
+
+# OpenAI
+openai==1.6.1
+
+# Pinecone
+pinecone-client==3.0.0
+
+# FastAPI
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+
+# Apache Airflow
+apache-airflow==2.8.0
+
+# Utilities
+python-dateutil==2.8.2
+
